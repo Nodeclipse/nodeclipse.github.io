@@ -61,11 +61,8 @@ title: Nodeclipse, Enide - Updates
                     <li><a href="/updates/" class="download current">Download</a></li>
                     <li>{% include nodeclipse_install_button.html %}</li>
                     <li><a href="/enide" class="download">Enide</a></li>
-                    <li><a href="/nts/" class="download">NTS</a></li>
-                    <li><a href="http://nodeclipse.github.io/" class="blog external">Developing</a></li>
-                    <li><a href="https://github.com/Nodeclipse/coffeescript-eclipse" class="blog external">Coffee</a></li>
+                    <li><a href="/enide/2015" class="download">Enide Studio</a></li>
                     <li><a href="/restclient-tool/" class="blog">REST CLIENT</a></li>
-                    <li><a href="/sdk/" class="blog">SDK</a></li>
                     <li><a href="/video">Video</a></li>
                     <li><a href="/news">News</a></li>
                     <li><a href="http://nodeclipse.uservoice.com/forums/216804-general" class="community">Ideas</a></li>
@@ -172,6 +169,7 @@ title: Nodeclipse, Enide - Updates
 				<br>
 				</li>
 				
+				<!--  
 				<li>4.old				
 				For MacOC X there was also download method using
 				<a href="https://github.com/phinze/homebrew-cask" >homebrew-cask</a>. 
@@ -185,6 +183,7 @@ title: Nodeclipse, Enide - Updates
 				<a href="https://github.com/phinze/homebrew-cask/blob/master/Casks/nodeclipse.rb">Casks/nodeclipse.rb</a>
 				<br>
 				<br>
+				-->
 				
 				For Windows there was also older <a href="/enide/studio/2014">Enide Studio 2014 (Eclipse 4.4 Luna distribution)</a>
 				and <a href="/enide/studio/">Enide Studio 0.5 (Eclipse 4.3 Kepler distribution)</a>
@@ -223,7 +222,7 @@ title: Nodeclipse, Enide - Updates
 				b) update site (bigger choice)</h4>
 				<pre>1.  Start Eclipse, then select Help > Install New Software...</pre>
 				<pre>2.  Enter the update site URL into the Work with text box:</pre>
-				<pre>    http://www.nodeclipse.org/updates/</pre>
+				<pre>    {% include nodeclipse_updates.html %}</pre>
 				<pre>    or the one that is quicker but changes every release</pre>
 				<pre>    {% include nodeclipse_update_site.html %}</pre>
 				<pre>    Select with checkbox what you want to install.</pre>
