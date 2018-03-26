@@ -1,6 +1,12 @@
 
 # Nodeclipse website
 
+Sources of the website <https://nodeclipse.github.io/>.
+Before it was on <https://nodeclipse.org>.
+
+
+## Older and very old notes are below
+
 Hosted on GitHuh-pages
 Uses [jekyll](http://jekyllrb.com/) <https://help.github.com/articles/using-jekyll-with-pages>
 
