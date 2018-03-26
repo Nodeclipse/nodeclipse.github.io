@@ -2,4 +2,4 @@ markdown: rdiscount
 pygments: true
 name: Nodeclipse
 description: Node.JS development in Eclipse
-url: http://www.nodeclipse.org
+url: https://nodeclipse.github.io/
