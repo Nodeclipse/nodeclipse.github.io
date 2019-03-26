@@ -9,9 +9,10 @@ a img {border: none; }
 # Nodeclipse Plugins List 2.0
 
 Drag-n-drop what you need on Eclipse main toolbar. ([See tip how](list-tip-how)).   
-If it does not work, say to [Bug 507117 - Why drag-n-drop Marketplace icon does not work](https://bugs.eclipse.org/bugs/show_bug.cgi?id=507117) 
-and/or [new GitHub issue](https://github.com/Nodeclipse/www.nodeclipse.org).  
-And why [click-through (instead of drag-n-drop) does not show relevant page](https://bugs.eclipse.org/bugs/show_bug.cgi?id=365410).
+If it does not work, say within 
+[Bug 507117 - Why drag-n-drop Marketplace icon does not work](https://bugs.eclipse.org/bugs/show_bug.cgi?id=507117) 
+or why [Bug 365410 click-through (instead of drag-n-drop) still may be misleading](https://bugs.eclipse.org/bugs/show_bug.cgi?id=365410)
+and/or [new GitHub issue](https://github.com/Nodeclipse/nodeclipse.github.io).
 
 ## Editors
 
