@@ -16,6 +16,7 @@ and/or [new GitHub issue](https://github.com/Nodeclipse/nodeclipse.github.io).
 
 ## Editors
 
+[![ASCII UML](https://ascii-uml.github.io/images/ASCII-UML-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4120961)
 [![BlueSky](../img/list/bluesky-lojo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3394048)
 [![Jenkinsfile Editor](../img/list/jenkins-editor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3680354)
 [![Markdown](../img/list/Markdown_0.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=369)
