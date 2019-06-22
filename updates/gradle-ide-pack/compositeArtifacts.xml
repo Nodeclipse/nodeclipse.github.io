@@ -11,7 +11,7 @@ layout: nil
   </properties>
   <children size='1'>
 	<child location='{% include nodeclipse_update_site.html %}'/>
-	<child location='http://dist.springsource.com/release/TOOLS/gradle/'/>
+	<child location='https://dist.springsource.com/release/TOOLS/gradle/'/>
 	<child location='https://dl.bintray.com/de-jcup/egradle/'/>
   </children>
 </repository>
