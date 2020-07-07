@@ -24,7 +24,7 @@ Update environment variables. Create
 - `GRADLE_HOME`
 - `TOMCAT_HOME`
 
-and mofidy
+and modify
 
 `Path` - put somewhere inbetween (e.g. after system tools) `bin` folders for all needed. 
 

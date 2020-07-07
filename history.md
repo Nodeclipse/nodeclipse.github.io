@@ -71,7 +71,7 @@ TODO
 
 See [tern-lint/wiki/Validation-JSDoc](https://github.com/angelozerr/tern-lint/wiki/Validation-JSDoc)
 
-- add TCF-Termnals View as first on the Node perspective,
+- add TCF-Terminals View as first on the Node perspective,
 blocked by [Bug 478249 - [terminal][regression] 13s or more freeze](https://bugs.eclipse.org/bugs/show_bug.cgi?id=478249)
 
 <!--
@@ -557,7 +557,7 @@ and `*.litcoffee` files,
 	* Add package.json [(This is good practice)](http://blog.nodejitsu.com/package-dependencies-done-right)
 * [Publish](http://marketplace.eclipse.org/quickstart) on Eclipse marketplace
 * [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)
-	You can pass arguments to application and node.js setting on [Debug configration...]-[Node Application]-[&ltyour configration name&gt]-[Arguments].<br/>
+	You can pass arguments to application and node.js setting on [Debug configuration...]-[Node Application]-[&ltyour configuration name&gt]-[Arguments].<br/>
 	You can also set arguments on [Run configuration...].<br/>
 	![Screen shot](img/Arguments.png)
 * [n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
