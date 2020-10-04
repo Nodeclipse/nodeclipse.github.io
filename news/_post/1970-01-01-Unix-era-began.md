@@ -11,4 +11,4 @@ categories: [news]
 
 It is now January 1st 1970, and we celebrate UNIX era.
 
-From now on when measure time, you should count time in miliseconds from this date.
+From now on when measure time, you should count time in milliseconds from this date.

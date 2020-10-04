@@ -24,7 +24,7 @@ CoffeeScript Editor is general editor for Node.js or web-projects.
 
 Just run your `.coffee` file to check if it can compile, 
 and see coffee compiler message in `Console` View if it fails.
-(right-click in any Editor with `.coffee` file inside, seelct Run As -> coffee).
+(right-click in any Editor with `.coffee` file inside, select Run As -> coffee).
 This is quicker alternative to `coffee -c .` from command line.
 
 ### Note on XText Nature

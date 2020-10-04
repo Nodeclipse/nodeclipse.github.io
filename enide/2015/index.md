@@ -22,7 +22,7 @@ Recommended install via downloading package for your OS.
 Java and JavaScript tools
 
 - Java
-	- Maven (m2e) <i>Hint:</i> For multi-module projects try in Project Explorer menu <kbd>Project Presentation -> Hierachical</kbd>
+	- Maven (m2e) <i>Hint:</i> For multi-module projects try in Project Explorer menu <kbd>Project Presentation -> Hierarchical</kbd>
 	- Gradle (Gradle IDE Pack)
 	- Java names spelling check
 	- Tomcat Server feature

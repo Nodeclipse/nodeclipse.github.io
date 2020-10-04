@@ -19,7 +19,7 @@ More detailed and more recent features are at [history page](history).
 	<li>Creating default structure for New Node Project and New Node Source File</li>
 	<li>Generating Express project with Wizard</li>
 	<li>JavaScript Syntax highlighting</li>
-	<li>Bracket matching and marking selection occurences with background color</li>
+	<li>Bracket matching and marking selection occurrences with background color</li>
 	<li>Code Assist (JSDT and/or Tern)</li>
 	<li>Code Completion for base Node.js modules, Express, MongoDB driver, Mongoose (create tern plugins for more)</li>
 	<li>Experimental content assist from Orion IndexFiles for amqp, express, mongodb, mysql, postgres and redis node packages</li>
@@ -35,7 +35,7 @@ More detailed and more recent features are at [history page](history).
 	<li>Specifying environment variables values to use (per every file)</li>
 	<li>Running CoffeeScript *.coffee files</li>
 	<li>Running *.js files with PhantomJS, MongoDB Shell or Java 8 Nashorn <code>jjs</code> util.</li>
-	<li>Supporting <code>*.njs, *.pjs, *.mjs</code> and <code>*.jjs</code> file extentions.</li>
+	<li>Supporting <code>*.njs, *.pjs, *.mjs</code> and <code>*.jjs</code> file extensions.</li>
 	<li>Bundled together with
 		<a href="http://marketplace.eclipse.org/content/markdown-text-editor/click">Markdown Editor</a>, 
 		<a href="http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin/click">GitHub Flavored Markdown</a>, 

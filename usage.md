@@ -69,7 +69,7 @@ Read also <a href="https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hi
 <ol>
 <li>Select <code>File -> New -> Node Express Project</code>.</li>
 <li>Enter [Project name], select preferred Template Engine, and press [Finish] button.</li>
-<li>Wait for <code>npm</code> to finish dowloading dependencies. Press <kbd>F5</kbd>(refresh)
+<li>Wait for <code>npm</code> to finish downloading dependencies. Press <kbd>F5</kbd>(refresh)
  for <code>node_modules</code> folder to appear.
  (<a href="https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.help/contents/configuration.md#optional-general-eclipse-configuration">configure autorefresh</a>) </li>
 </ol>
@@ -98,7 +98,7 @@ For any project or folder you can run <code>nodeclipse -g</code> and then import
 #### No miracles, just files
 
 <p>
-In Project Explorer press trianle to call drop down menu Cutomize View... -> Filter -> uncheck *.resources.
+In Project Explorer press triangle to call drop down menu Customize View... -> Filter -> uncheck *.resources.
 Now you see all files:
 .project, .jshnt.rc and .settings folder. Take time to explore files content, it is all under your control.
 </p>

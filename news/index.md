@@ -16,7 +16,7 @@ title: Nodeclipse -- News Archive
 	{% include nodeclipse_install_button.html %}</br>
 	There is also update site archive on <a href="http://sourceforge.net/projects/nodeclipse">SourceForge</a>.<br/>
 	Check <a href="/history">What's new</a>.
-	<a href="/enide/tools/markdowneditor">Markdonw Editor</a> can be installed from
+	<a href="/enide/tools/markdowneditor">Markdown Editor</a> can be installed from
 	<pre>http://dl.bintray.com/enide/Markdown/1.0.0/</pre>
 </p>
 <p>	
@@ -58,7 +58,7 @@ Node package server as proxy or cache.
 	and after that open any .md file with <code>Show in GFM View</code> instantly, any time, 
 	even when offline, and it will look exactly like on GitHub.
 	( HTMLs are saved into <code>.*.md.html</code> filenames.
-	They will not be commited when project
+	They will not be committed when project
 	<code>.gitignore</code> file has <code>.*.md.html</code>.
 	.* files are hidden in Eclipse by default, but see "No miracles, just files" <a href="/#usage">below</a>. )
 </p>

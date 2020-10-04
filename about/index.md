@@ -9,8 +9,8 @@ title: Nodeclipse & Enide -- About
 		We can't develop everything at once, but we let you know what are the best things around for
 		Node.js development with <a href="http://www.eclipse.org/">Eclipse</a>."<br/>
 		<br/>
-		Year 2014 with Maven & <a href="/projects/gradle">Gradle</a> plugins (and contribution to Markdown and other lugins on GitHub)
-		shows that we should somehow to review our scope. We are surprised at what was archieved with all small steps we did put together.
+		Year 2014 with Maven & <a href="/projects/gradle">Gradle</a> plugins (and contribution to Markdown and other plugins on GitHub)
+		shows that we should somehow to review our scope. We are surprised at what was achieved with all small steps we did put together.
 		And much more is on the road. We just can't go alone. Nodeclipse is looking for supporters to share knowledge,
 		and sponsors. Yes, with so many ideas we need to be able to spend more time for the project.<br/>
 		<br/>
